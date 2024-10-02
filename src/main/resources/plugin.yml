@@ -1,0 +1,4 @@
+name: ElegantJail
+version: '${project.version}'
+main: com.mafiaprod.ElegantJail
+api-version: '1.21'
